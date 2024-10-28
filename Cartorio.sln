@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cartorio", "Cartorio.csproj", "{DBC9D0B0-B3CD-4A8F-ABE9-F38C6DFB033F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC9D0B0-B3CD-4A8F-ABE9-F38C6DFB033F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC9D0B0-B3CD-4A8F-ABE9-F38C6DFB033F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC9D0B0-B3CD-4A8F-ABE9-F38C6DFB033F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC9D0B0-B3CD-4A8F-ABE9-F38C6DFB033F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B676CBD0-F402-431A-9EFD-5CEFA5542B4A}
+	EndGlobalSection
+EndGlobal
